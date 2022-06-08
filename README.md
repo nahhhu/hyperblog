@@ -7,11 +7,9 @@ Hasta ahora vimos:
 *Trucos de Freddy.
 
 **este readme.md es un chiste** Diseñado como ejemplo.
-<html>
   <body>
   <head>
   </head>
   <body>
     <h1>gordo</h1>
   </body>
- </html>
