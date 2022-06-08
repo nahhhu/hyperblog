@@ -12,6 +12,6 @@ Hasta ahora vimos:
   <head>
   </head>
   <body>
-    gordo
+    <h1>gordo</h1>
   </body>
   </html>
